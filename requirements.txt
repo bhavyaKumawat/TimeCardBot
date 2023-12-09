@@ -1,0 +1,6 @@
+langchain
+unstructured==0.7.12
+sentence-transformers
+faiss-gpu
+accelerate
+bitsandbytes
